@@ -27,7 +27,7 @@ git clone https://github.com/hotenabc/NFQ-test-Old-Code-solution.git
 Install all the dependencies using composer
 
 ```shell script
-cd ./NFQ-test-solution
+cd ./NFQ-test-Old-Code-solution
 composer install
 ```
 

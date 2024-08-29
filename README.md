@@ -15,13 +15,13 @@ See [GitHub cloning a repository](https://help.github.com/en/articles/cloning-a-
 create a local copy of this project on your computer.
 
 ```sh
-git clone git@github.com:hotenabc/NFQ-test-solution.git
+git clone git@github.com:hotenabc/NFQ-test-Old-Code-solution.git
 ```
 
 or
 
 ```shell script
-git clone https://github.com/hotenabc/NFQ-test-solution.git
+git clone https://github.com/hotenabc/NFQ-test-Old-Code-solution.git
 ```
 
 Install all the dependencies using composer

@@ -2,7 +2,7 @@
 
 ## Installation
 
-The NFQ-test uses:
+The NFQ-test-Old-Code uses:
 
 - [8.0+](https://www.php.net/downloads.php)
 - [Composer](https://getcomposer.org)

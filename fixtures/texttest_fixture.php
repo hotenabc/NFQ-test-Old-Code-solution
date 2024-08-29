@@ -7,7 +7,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 use Product\Product;
 use Product\Item;
 
-echo 'OMGHAI!' . PHP_EOL;
+echo 'NFQ-GREAT!' . PHP_EOL;
 
 $items = [
     new Item('+5 Dexterity Vest', 10, 20),
